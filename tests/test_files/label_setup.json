@@ -1,0 +1,2 @@
+{"label_names": {"0": "person", "1": "sky", "2": "tree", "3":"tv"},
+"categories": {"indoor": [3], "outdoor": [0,1,2]}}
